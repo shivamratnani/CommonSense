@@ -1,0 +1,2000 @@
+Which of the following does not contribute significantly to the operational value of a large cloud provider like AWS?
+A. Multiregional presence
+B. Highly eperienced teams of security engineers
+C. Deep experience in the retail sphere
+D. Metered, pay-per-use pricing,C. Deep experience in the retail sphere
+
+
+Which of the following are signs of a highly available application? (Select TWO)
+A. A failure in one geographoic region will trigger an automatic failover to resources in a different region
+B. Applicaitons are protected behind multiple layers of seurity
+C. virtualized hypervisor-driven systems are depoloyed as mandated by company policy
+D. Spikes in user demakd are met through automatically increatsing resources,A. A failure in one geographoic region will trigger an automatic failover to resources in a different region
+D. Spikes in user demakd are met through automatically increatsing resources
+
+
+How does the metered paymen tmodel make many benefits of cloud computing possible? (Select TWO)
+A. Greatere applicaiton security is now possible
+B. Experiments with multiple configuraiton options are now cost-effective
+C. Applicaitons are now hightly scalable
+D. Fullstack applications are possible without the need to invest in capital expenses,B. Experiments with multiple configuraiton options are now cost-effective
+D. Fullstack applications are possible without the need to invest in capital expenses
+
+
+Which of the following are direct benefits of server virtualization? (Select TWO)
+A. Fast resource provisioning and launching
+B. Efficient (high-density) use of resources
+C. Greater application security
+D. Elastic applicaiton designs,A. Fast resource provisioning and launching
+B. Efficient (high-density) use of resources
+
+
+What is a hypervisor?
+A. Hardware device used to provide an interface between storage and compute modules
+B. Hardware device used to provide an interface between networking and compute modules
+C. Software used to log and monitor virtualized operations
+D. Software used to administrate virtualized resources run on physical infrastructure,D. Software used to administrate virtualized resources run on physical infrastructure
+
+
+Which of the following best describes server virtualization?
+A. "Sharding" data from multiple sources into a single virtual data store
+B. Logically partitioning physical compute and storage devices into multiple smaller virtual devices
+C. Aggregating physical resources spread over multiple physical devices into a single virtual device
+D. Abstractivng the compexity of physical infrastructure behind a simple web interface,B. Logically partitioning physical compute and storage devices into multiple smaller virtual devices
+
+
+Which of the following best describes Infrastructure as a Service products?
+A. Services that hide infrastructure complexity bvehind a simle interface
+B Service that provide a service to end users through a public network
+C. Service that give you direct contol over underlying compute and storage resources
+D. Platforms that allow developers to run their code over short periods on cloud servers,C. Service that give you direct contol over underlying compute and storage resources
+
+
+Which of the following best describes Software as a Service products?
+A. Service that give you direct contol over underlying compute and storage resources
+B Service that provide a service to end users through a public network
+C. Services that hide infrastructure complexity bvehind a simle interface
+D. Platforms that allow developers to run their code over short periods on cloud servers,B Service that provide a service to end users through a public network
+
+
+Which of the following best describes Platform as a Service products?
+C. Services that hide infrastructure complexity bvehind a simple interface
+D. Platforms that allow developers to run their code over short periods on cloud servers
+A. Service that give you direct contol over underlying compute and storage resources
+B Service that provide a service to end users through a public network,C. Services that hide infrastructure complexity bvehind a simple interface
+
+
+Which of the following best describes scalability?
+A. The ability of an application to automatically add preconfigured compute resources to meet increasing demand
+B. The ability of an application to increase or decrease compute resources to match changing demand
+C. The ability to more densely pack virtualized resources onto a single physical server
+D. The ability to bill resource usage using a pay-per-user model,A. The ability of an application to automatically add preconfigured compute resources to meet increasing demand
+
+
+Which of the following best describes elasticity?
+A. The ability to more densely pack virtualized resources onto a single physical server
+B. The ability to bill resource usage using a pay-per-user model
+C. The ability of an application to increase or decrease compute resourcces to match changing demand
+D. The ability of an applicaiton to automatically add preconfigured comput resources to meet increasing demand,C. The ability of an application to increase or decrease compute resourcces to match changing demand
+
+
+Which of the following characteristics most help AWS provide such scalable services?
+A. The enormous number of servers it operates
+B. The value of its capitalized assets
+C. Its geographic reach
+D. Its highly automated infrastructure adminitration systems,A. The enormous number of servers it operates
+D. Its highly automated infrastructure adminitration systems
+
+
+Which of the following credentials can you use to log into the AWWS Management Console?
+A. Access key ID
+B. Account ID
+C. Account ID
+D. Identity and Access Management (IAM) username,D. Identity and Access Management (IAM) username
+
+
+How long will your session with the AWS Management Console remain active?
+A. 6 hours
+B. 12 hours
+C. 8 hours
+D. 24 hours
+E. 15 hours,B. 12 hours
+
+
+While looking at the EC2 service console in the AWS Management Console while logged in a the root user, you notice all of your instances are missing. What could be the reason?
+A. You've selected the wrong region in the navigation bar.
+B. You don't have view access
+C. You've selected the wrong Availability Zone in the navigation bar.
+D. You don't have an access key.,A. You've selected the wrong region in the navigation bar.
+
+
+Which of the following is true regarding a resource tag?
+A. It must be unique within an account
+B. It's case insensitive
+C. It must have a key
+D. I must have a value,C. It must have a key
+
+
+Which of the following is required to use the AWS Command Line Interface (CLI)?
+A. A secret key
+B. An IAM user
+C. Outbound network access to TCP port 80
+D. Linux,A. A secret key
+
+
+Which of the following are options for installing the AWS CLI on Windows 10? (Select TWO.)
+A. The MSI installer
+B. An AWS software development kit (SDK)
+C. The Yum or Aptitude package managere
+D. Using Python and PIP,A. The MSI Installer
+D. Using Python and PIP
+
+
+After installing the AWS Command Line Interface, what should you do before using it to securely manage your AWS resources?
+A. Issue the aws --version command
+B. Issue the aws configure command
+C. Reboot
+D. Generate a new access key ID and secret access key for the root user.,B. Issue the aws --version commnand
+
+
+Which output format does the AWS CLI support?
+A. Tab-separated values (TSV)
+B. Comma-separated values (CSV)
+C. JavaScript object notation (JSON)
+D. None of these,C. JavaScript object notation (JSON)
+
+
+Which of the following programming languages are AWS software development kits available for? (Select THREE.)
+A. Fortran
+B. JavaScript
+C. JSON
+D. Java
+E. PHP,B. JavaScript
+D. Java
+E. PHP
+
+
+Which of the following software development kits (SDKs) enable developers to write mobile applications that run on both Apple and Android devices? (Select TWO)
+A. AWS Mobile SDK for Unity
+B. AWS Mobile SDK for .NET and Xamarin
+C. AWS SDK for Go
+D. AWS Mobile SDK for iOS,A. AWS Mobile SDK for Unity
+B. AWS Mobile SDK for .NET and Xamarin
+
+
+Which of the following programming languages are AWS Internet of Things (IoT) device software development kits available for? (Select TWO)
+A. JavaScript
+B. C++
+C. Swift
+D. Ruby,A. JavaScript
+B. C++
+
+
+What's the difference between the AWS Command Line Interface (CLI) and the AWS software development kits (SDK)? (Select TWO)
+A. The AWS SDKs allow you to use popular programming languages to write application that interact with AWS services
+B. The AWS CLI allows you to interact with AWS service from a terminal
+C. The AWS SDKs allow you to interact with AWS service from a terminal
+D. The AWS CLI allows you to use popular programming languages to write applications that interact with AWS services,A. The AWS SDKs allow you to use popular programming languages to write application that interact with AWS services
+B. The AWS CLI allows you to interact with AWS service from a terminal
+
+
+Which of the following CloudWatch features store performance data from AWS serices?
+A. Logs
+B. Metrics
+C. Events
+D. Metric filters
+E. Alarms,B. Metrics
+
+
+For which of the following scenarios can you create a CloudWatch alarm to send a notification?
+A. A metric that doesn't change for 24 hours
+B. Termination of an EC2 instance
+C. The presence of a specific IP address in a web server log
+D. A metric that exceeds a given threshold,D. A metric that exceeds a given threshold
+
+
+Which of the following Simple Notification Service (SNS) protocols can you use to send a notification? (select TWO)
+A. Short Message Service (SMS) text message
+B. CloudWatch Events
+C. Simple Queue Service (SQS)
+D. Mobile pull notification,A. Short Message Service (SMS) text message
+C. Simple Queue Service (SQS)
+
+
+Which of the following are true regarding CloudWatch Events? (Select TWO)
+A. It can reboot an EC2 instance when an error appears in a log file
+B. It can send an SNS notification when an EC2 instance's CPU utilization exceeds 90%
+C. It can send an SNS notification when an IAM user logs in to the AWS Management Console
+D. It can shut down an EC2 instance at a specific time.,C. It can send an SNS notification when an IAM user logs in to the AWS Management Console
+D. It can shut down an EC2 instance at a specific time.
+
+
+Which of the following trigger an API action ? (Select TWO)
+A. Configuring the AWS Command Line Interface (CLI)
+B. Viewing an S3 bucket from the AWS Management Console
+C. Logging into the AWS Management Console
+D. Listing IAM users from the AWS Command Line Interface (CLI),B. Viewing an S3 bucket from the AWS Management Console
+D. Listing IAM users from the AWS Command Line Interface (CLI)
+
+
+What the most cost-effective way to view and search only the last 60 days of management API events on your AWS account?
+A. Use CloudTrail event history
+B. Create a trail
+C. Stream CloudTrail logs to CloudWatch
+D. Use CloudWatch Events,A. Use CloudTrail event history
+
+
+You want to log every object downloaded from an S3 buckeet in a specific region. you want to retain thes logs indefinitely and search them easily. What's the most cost-effective way to do this? (Select TWO)
+A. Stream CloudTrail logs to CloudWatch Logs
+B. Use CloudTrail event history
+C. Eale CloudTrail logging of global service events
+D. Create a trail to log S3 data events,A. Stream CloudTrail logs to CloudWatch Logs
+D. Create a trail to log S3 data events
+
+
+What is a benefit of using CloudTrail log file integrity validation?
+A. It lets you assert that no CloudTrail log files have been deleted fro CloudWatch
+B. It lets you assert that no CloudTriail log files have been deleted from S3
+C. It prevents unauthorized users from deleting CloudTrail log files.,B. It lets you assert that no CloudTriail log files have been deleted from S3
+
+
+Which of the following Cost Explorer report types can show you the monthly costs for your reserved EC2 instances?
+A. Reserved instance recommendations
+B. Reserved Instance (RI) Coverage reports
+C. Reserved Instances (RI) Utilization reports
+D. Costs and Usage Reports,D. Costs and Usage Reports
+
+
+Which of the following services allow you to purchase reseverved instances to save money?
+A. Amazon Relational Database Services (RDS)
+B. Lambda
+C. S3
+D. AWS Fargate,A. Amazon Relational Database Services (RDS)
+
+
+Which Cost Explorer report shows the amount of money you've saved using reserved instances?
+A. Daily costs
+B. Reservation Utilization
+C. Reservation Coverage
+D. Monthly EC2 running hours costs and usage,B. Reservation Utilization
+
+
+You've been running several Elastisearch instances continuously for the past three months. You check the reserved instances recommendations in Cost Explorer but see no recommendations. hat could be a reason for this?
+A. The recommendation parameters are based on the past seven days
+B. You haven't selected the Elastic Compute Cloud (EC2) service
+C. Cost Explorer doesn't make reservation recommendations for Elasticsearch
+D. Your instances are already covered by reservations
+E. You haven't selected the ElastiCache service,D. Your instances are already covered by reservations
+
+
+What is the function of an EC2 AMI?
+A. To define the hardware profile used by an EC2 instance
+B. To serve as an instance storage volume for high-volume data processing operations
+C. To serve as a source image from which an instance's primary storage volume is built
+D. To define the way data streams are managed by EC2 instances,C. To serve as a source image from which an instance's primary storage volume is built
+
+
+Where can you find a wide range of verified AMIs from both AWS and third-party vendors
+A. AWS Marketplace
+B. Quick Start
+C. Community AMIs
+D. My AMIs,A. AWS Marketplace
+
+
+Which of the following could be included in an EC2 AMI? (Select TWO)
+A. A networking configuraiton
+B. A software applicaiton stack
+C. An operating system
+D. An instance type definition,B. A software applicaiton stack
+C. An operating system
+
+
+Which of the following are EC2 instance type families? Select TWO)
+A. c5d.18xlarge
+B. Compute optimized
+C. t2.micro
+D. Accelerated computing,B. Compute optimized
+D. Accelerated computing
+
+
+When describing EC2 instance types, what is the role played by the vCPU metric?
+A. vCPUs represent an instance's potential resilience against external network demands
+B. vCPUs represent an instance type's system memory compared to the clas of memory modules on a physical machine
+C. vCPUs represent an AMI's processing power compared to the number of processors on a physical machine
+D. vCPUs represent an instances type's cmpute power compared to the number of processors on a physical machine,D. vCPUs represent an instances type's compute power compared to the number of processors on a physical machine
+
+
+Which of the followin describes an EC2 dedicated instance?
+A. An EC2 instance running on a physical host reserved for the exclusive use of a single AWS account
+B. An EC2 instance running on a physical host reserved for and controled by a single AWS account
+C. An EC2 AMI that can be launched only on an instance within a single AWS account
+D. An EC2 instance optimized for a particular compute role,A. An EC2 instance running on a physical host reserved for the exclusive use of a single AWS account
+
+
+Which of the following describes an EBS volume?
+A. A software stack archive packaged to make it easy to copy and deploy to an EC2 instance
+B. A virtualized partition of a physical storage drive that's directly connected to the EC2 instance it's assocaited with
+C. A virtualized partition of a physical storage drive that's not directly connected to the EC2 instance it's assocaited with
+D. A storage volume that's encrypted for greater security,C. A virtualized partition of a physical storage drive that's not directly connected to the EC2 instance it's assocaited with
+
+
+Why might you want to use an instance store volume with your EC2 instance rather than a volume from the more common EBS service? (Select TWO)
+A. Instance store volumes can be encrypted
+B. Instance store volumes, data will survive an instance shutdown
+C. Instance store volumes provide faster data read/write performance
+D. Instance store volumes are connected directly to your EC2 instance,C. Instance store volumes provide faster data read/write performance
+D. Instance store volumes are connected directly to your EC2 instance
+
+
+Your web applicaiton experiences periodic spikes in demand that require the provisioning of extra instance. Which of the followig pricing models would make the most snese for those extra instance?
+A. Spot
+B. On-demand
+C. Reserved
+D. dedicated,B. On-demand
+
+
+Your web applicaiton experiences periodic spikes in demand that require the provisioning of extra instance. Which of the followig pricing models would make the most snese for the base instances that will run constantly?
+A. Spot
+B. On-demand
+C. Spot fleet
+D. Reserved,D. Reserved
+
+
+Which of the following best describes what happens when you purchase an EC2 reserved instance?
+A. Charges for any instance you run matching the reserved instance type will be covered by the reservation
+B. Capacity matching the reserved definition will be guaranteed to be available whenever you request it
+C. Your account will immediately and automatically be billed for the full reservation amount
+D. An EC2 instance matching your reservation will automatically be launched in the selected AWS Region,A. Charges for any instance you run matching the reserved instance type will be covered by the reservation
+
+
+Which of the following use cases are good candidates for spot instances (Select TWO)
+A. Big data processing workloads
+B. Ecommerce websites
+C. Continuous integration development environments
+D. Long-term, highly available, content-rich websites,A. Big data processing workloads
+C. Continuous integration development environments
+
+
+Which AWS services simplify the process of bringing web applications to deployment? (Select TWO)
+A. Elastic Block Store
+B. Elastic Compute Cloud
+C. Elastic Beanstalk
+D. Lightsail,C. Elastic Beanstalk
+D. Lightsail
+
+
+Which of the following services bills at a flat rate regardless of how it's consumed?
+A. Lightsail
+B. Elastic Beanstalk
+C. Elastic Compute Cloud
+D. Relational Database Service,A. Lightsail
+
+
+Which of these stacks are available from Lightsail blueprints? (Select TWO)
+A. Ubuntu
+B. Gitlab
+C. WordPress
+D. LAMP,B. Gitlab
+D. LAMP
+
+
+Wich of these AWS services use primarily EC2 resources under the hood? (Select TWO)
+A. Elastic Block Store
+B. Lightsail
+C. Elastic Beanstalk
+D. Relational database Servcie,B. Lightsail
+C. Elastic Beanstalk
+
+
+Which of the following AWS servicdes are designed to let you deploy Docker containers? (Select TWO)
+A. Elastic Container Service
+B. Lightsail
+C. Elastic Beanstalk
+D. Elastic Compute Cloud,A. Elastic Container Service
+C. Elastic Beanstalk
+
+
+Which of the folling use container technologies? (Select TWO)
+A. Docker
+B. Kubernetes
+C. Lambda
+D. Lightsail,A. Docker
+B. Kubernetes
+
+
+What role can the Python programming language play in AWS Lambda?
+A. Python cannot be used for Lambda
+B. It is the primary language for API calls to administrate Lambda remotely
+C. It is used as the underlying code driving the service
+D. It can be set as the runtime environment for a function,D. It can be set as the runtime environment for a function
+
+
+What is the maximum time a Lambda function may run before timing out?
+A. 15 minutes
+B. 5 minutes
+C. 1 minute
+D. 1 hour,A. 15 minutes
+
+
+When trying to create an S3 bucket named documents, AWS informs you that the bucket name is already in use. What should you do in order to create a bucket?
+A. Use a different region
+B. Use a globaly unique bucket name
+C. Use a different storage class
+D. Use a longer name
+E. Use a shorter name,B. Use a globaly unique bucket name
+
+
+Which S3 storage classes are most cost-effective for infrequently accessed data that can't be easily replaced? (Select TWO)
+A. STANDARD_IA
+B. ONEZONE_IA
+C. GLACIER
+D. STANDARD
+E. INTELLIGENT_TIERING,A. STANDARD_IA
+C. GLACIER
+
+
+What are the major differences between Simple Storage Service (S3) and Elastic Block Store (EBS)? (Select TWO)
+A. EBS stores volumes
+B. EBS stores snapshots
+C. S3 stores volumes
+D. S3 stores objects
+E. EBS stores objects,A. EBS stores volumes
+D. S3 stores objects
+
+
+What methods can be used to grant anaonymous access to an object in S3? (Select THREE)
+A. Deleting old object versions
+B. Moving objects to Glacier
+C. Deleting old buckets
+D. Deleting old objects
+E. Moving objects to an EBS volume,A. Deleting old object versions
+B. Moving objects to Glacier
+D. Deleting old objects
+
+
+What methods can be used to grant anonymous access to an objet in S3? (Select TWO)
+A. Bucket policies
+B. Access control lists
+C. User policies
+D. Security groups,
+
+
+Your budget-conscious organization has a 5TB database file it needs to retain off-site for at least 5 years. In the event the organization needs to acces the database, it must be accessible within 8 hours. Which cloud storage option should you recommend, and why? (Select TWO)
+A. S3 has the most durable storage
+B. S3
+C. S3 Glacier
+D. Glacier is the most cost effective
+E. S3 has the fastest retrieval times
+F. S3 doesn't support object sizes greater that 4TB,C. S3, Glacier
+D. Glacier is the most cost effective
+
+
+Which of the followin actions can you perform from the S3 Glacier service console?
+A. Delete an archive
+B. Create a vault
+C. Create an archive
+D. Delete a bucket
+E. Retrieve an archive,B. Create a vault
+
+
+Which Glacier retrieval option generally takes 3 to 5 hours to complete?
+A. Provisioned
+B. Expedited
+C. Bulk
+D. Standard,D. Standard
+
+
+What's the minimum size for a Glacier archive?
+A. 1 byte
+B. 40TB
+C. 5TB
+D. 0 bytes,A. 1 byte
+
+
+Which types of AWS Storage Gateway let you connect your servers to block storage using the iSCSI protocol? (Select TWO)
+A. Cached gateway
+B. Tape gateway
+C. File gateway
+D. Volume gateway,B. Tape gateway
+D. Volume gateway
+
+
+Where does AWS Storage Gateway primarily store data?
+A. Glacier vaults
+B. S3 buckets
+C. EBS volumes
+D. EBS snapshots,B. S3 buckets
+
+
+You need an easy way to transfer files from a server in your data center to S3 without having to install any third-party software. Which of the following services and storage protocols could you use? (Select FOUR)
+A. AWS Storage Gateway - file gateway
+B. iSCSI
+C. AWS Snowball
+D. SMB
+E. AWS Storage Gateway - volume gateway
+F. The AWS CLI,A. AWS Storage Gateway - file gateway
+B. iSCSI
+D. SMB
+E. AWS Storage Gateway - volume gateway
+
+
+Which of the following are true regarding the AWS Storage Gateway - volume gateway configuration? (Select THREE)
+A. Stored volumes asynchronously back up data to S3 as EBS snapshots
+B. Stored volumes can be up to 32TB in size
+C. Cached volumes locally store only a frequently used subset of data
+D. Cached volumes asynchronously back up data to S3 as EBS snapshots
+E. Cached volumes can be up to 32TB in size,A. Stored volumes asynchronously back up data to S3 as EBS snapshots
+C. Cached volumes locally store only a frequently used subset of data
+E. Cached volumes can be up to 32TB in size
+
+
+What's the most data you can store on a single snowball device?
+A. 42TB
+B. 50TB
+C. 72TB
+D. 80TB,C. 72TB
+
+
+Which of the following are security features of AWS Snowball? (Select TWO)
+A. It enforces encryption at rest
+B. It uses a Trusted Platform Module (TPM) chip
+C. It enforces NFS encryption
+D. It has tamper-resistant network ports,A. It enforces encryption at rest
+B. It uses a Trusted Platform Module (TPM) chip
+
+
+Which of the following might AWS do after receiving a damaged Snowball device from customer?
+A. Copy the customer's data to Glacier
+B. Replace the Trusted Platform Module (TPM) chip
+C. Securely erase the customer's data from the device
+D. Copy the customer's datat to S3,C. Securely erase the customer's data from the device
+
+
+Which of the following can you use to transfer data to AWS Snowball from a Windows machine without writing any code?
+A. NFS
+B. The Snowball Client
+C. iSCSI
+D. SMB
+E. The S3 SDK Adapter for Snowball,B. The Snowball Client
+
+
+How do the AWS Snowball and Snowball Edge devices differ? (Select TWO)
+A. Snowball Edge supports copying files using NFS
+B. Snowball devices can be clustered together for storage
+C. Snowball's QSFP+ network interface supports speeds up to 40 Gbps
+D. Snowball Edge can run EC2 instances,A. Snowball Edge supports copying files using NFS
+D. Snowball Edge can run EC2 instances
+
+
+Which of the following Snowball Edge device options is the best for running machine learning applicaitons?
+A. Compute Optimized
+B. Compute Optimized with GPU
+C. Storate Optimized
+D. Network Optimized,B. Compute Optimized with GPU
+
+
+Which of the following hardware devices offers a network interface speed that supports up to 100 Gbps?
+A. Snowball Edge with the Storage Optimized configuration
+B. Snowball Edge with the Compute Optimized configuration
+C. Stoage Gateway
+D. 80 TB Snowball,B. Snowball Edge with the Compute Optimized configuration
+
+
+Which type of database stores data in columns and rows?
+A. Non-relational
+B. Relational
+C. Key-value store
+D. Document,B. Relational
+
+
+Which of the following Structured Query Language (SQL) statements can you use to write data to a relational database table?
+A. CREATE
+B. INSERT
+C. QUERY
+D. WRITE,B. INSERT
+
+
+Which of the following statements is true regarding non-relational databases?
+A. You can create only one table
+B. No primary key is required
+C. You can't store data with a fixed structure
+D. You don't have to define all the types of data that a table an store before adding data to it,D. You don't have to define all the types of data that a table an store before adding data to it
+
+
+What is a no-SQL database?
+A. A nonrelational DB without primary keys
+B. A schemaless relational DB
+C. A schemaless nonrelational DB
+D. A relational DB with priamary keys,C. A schemaless nonrelational DB
+
+
+What do new Relational Database Serices (RDS) instances use for database storage?
+A. Instance volumes
+B. Elastic Block Store (EBS) volumes
+C. Snapshots
+D. Magnetic storage,B. Elastic Block Store (EBS) volumes
+
+
+Which of the following are database engine options for Amazon Relational Database Service (RDS)? (Select TWO)
+A. IBM dBase
+B. PostgresSQL
+C. DynamoDB
+D. Amazon Aurora
+E. Redis,B. PostgresSQL
+D. Amazon Aurora
+
+
+What two databases in Amazon Aurora compatible with? (Select TWO)
+A. MySQL
+B. PostgreSQL
+C. MariaDB
+D. Oracle
+E. Microsoft SQL Server,A. MySQL
+B. PostgreSQL
+
+
+Which of the following features of Rlational Database Service (RDS) can prevent data loss in the event of an Availability Zone failure? (Select TWO)
+A. Read replicas
+B. Multi-AZ
+C. Snapshots
+D. IOPS
+E. Vertical scaling,B. Multi-AZ
+C. Snapshots
+
+
+Which RDS database engine offers automatically expanding database storage up to 64 TB?
+A. Microsoft SQL Server
+B. Amazon Aurora
+C. Oracle
+D. Amazon Athena,B. Amazon Aurora
+
+
+Which of the following Relational Database service (RDS) features can help you achieve a monthly availability of 99.95 percent?
+A. Multi-AZ
+B. Read replicas
+C. Point-in-time recovery
+D. Horizontal scaling,A. Multi-AZ
+
+
+What is true regarding a DynamoDB partition? (Select TWO)
+A. It's stored within a table
+B. It's backed by solid-state drives
+C. It's a way to uniquely identify an item in a table
+D. It's replicated across multiple Availability Zones,B. It's backed by solid-state drives
+D. It's replicated across multiple Availability Zones
+
+
+What is the minimum monthly availability for DynamoDB in a single region?
+A. 99.999%
+B. 99.95%
+C. 99.9%
+D. 99.9%,A. 99.999%
+
+
+Which of the following statements is true regarding a DynamoDB table?
+A. It can store only one data type
+B. When you create a table, you must define the maximum nu,ber of items that it can store
+C. Items in a table can have duplicate values for the primary key
+D. Items in a table don't have to have all the same attributes,D. Items in a table don't have to have all the same attributes
+
+
+Which configuration parameters can you adjust to improve write performance against a DynamoDB table? (Select TWO)
+A. Decrease read capacity units (RCU)
+B. Increase read capacity units
+C. Increase write capacity units (WCU)
+D. Decrease write capacity units
+E. Enale DynamoDB Auto Scaling,C. Increase write capacity units (WCU)
+E. Enale DynamoDB Auto Scaling
+
+
+Which DynamoDB operation is the most read-intensive?
+A. Write
+B. Query
+C. Scan
+D. Update,C. Scan
+
+
+Which of hte following would be appropriate to use for a primary key in a DynamoDB table that stores a customer list?
+A. The customer's full name
+B. The customer's phone number
+C. The customer's city
+D. A randomly generated cutomer ID number,D. A randomly generated cutomer ID number
+
+
+Which type of Redshift node uses magnetic storage?
+A. Cost-optimized
+B. Dense compute
+C. Dense storage
+D. Dense memory,B. Dense compute
+
+
+Which Redshift feature can analyze structured data stored in S3?
+A. Redshift Spectrum
+B. Redshift S3
+C. Amazon Athena
+D. Amazon RDS,A. Redshift Spectrum
+
+
+What is the term for a relational database that stores large amounts of structured data from a variety of sources for reporting and analysis?
+A. Data storehouse
+B. Data warehouse
+C. Report cluster
+D. Dense storage nodes,B. Data warehouse
+
+
+What's the maximum amount of data you can store in a Redshift cluster when using dense storage nodes?
+A. 2PB
+B. 326TB
+C. 2TB
+D. 326PB
+E. 236TB,A. 2TB
+
+
+Which of the following ar true of default VPC? (Select TWO)
+A. A default PC spans multiple regions
+B. AWS creates default VPC in each region
+C. AWS creates a default VPC in each Availability Zone
+D. By default, each default VPC is available to one AWS account,B. AWS creates default VPC in each region
+D. By default, each default VPC is available to one AWS account
+
+
+Which of the following is a valid CIDR for a VPC or subnet?
+A. 10.0.0.0/28
+B. 10.0.0.0/29
+C. 10.0.0.0/8
+D. 10.0.0.0/15,A. 10.0.0.0/28
+
+
+Which of the following are true regarding subnets? (Select TWO)
+A. A VPC must have at least two subnets
+B. A subnet must have a CIDR that's a subset of the CIDR o f the VPC in which it resides
+C. A subnet spans one Availability Zone
+D. A subnet spans multiple AZ,B. A subnet must have a CIDR that's a subset of the CIDR o f the VPC in which it resides
+C. A subnet spans one Availability Zone
+
+
+Which of the following is true of a new security group?
+A. It contains an inbound rule denying access from public IP addresses
+B. It contains an outbound rule denying access to public IP addresses
+C. It contains an outbound rule allowing access to any IP address
+D. It contains an inbound rule allowing access from any IP address
+E. It contains an inbound rule denying access from any IP address,C. It contains an outbound rule allowing access to any IP address
+
+
+What's the difference between a security group and a network access control list (NACL)? (Select TWO)
+A. A network access control list operates at the instance level
+B. A security group operates at the instance level
+C. A secruity group operates at the subnet level
+D. A network access control list operates at the subnet level,B. A security group operates at the instance level
+C. A secruity group operates at the subnet level
+
+
+Which of the following is true of a VPC peering connection?
+A. It's a private connection that connects more than three VPCs
+B. It' a private connection between two VPCs
+C. It's a public connection between two VPCs
+D. It's a virtual private network (VPN) connection between two VPCs,B. It' a private connection between two VPCs
+
+
+What are two differences between a virtual private network (VPN) connection and a Direct Connect connection? (Select TWO)
+A. A Direct Connect connection offers predictable latency because it doesn't traverse the internet
+B. A VPN connection uses the internet for transport
+C. A Direct Connect connection uses AES 128- or 256-bit encryption
+D. A VPN connection requires proprietary hardware,A. A Direct Connect connection offers predictable latency because it doesn't traverse the internet
+B. A VPN connection uses the internet for transport
+
+
+Which of the following are true about registering a domain name with Route 53? (Select TWO)
+A. The registrar you use to register a domain name determines who will host DNS for that domain
+B. You can register a domain name for a term of up to 10 years
+C. Route 53 creates a private hosted zone for the domain
+D. Route 53 creates a pubic hosted zone for the domain,B. You can register a domain name for a term of up to 10 years
+D. Route 53 creates a pubic hosted zone for the domain
+
+
+Which of the following Route 53 roting policies can return set of randomly ordered values?
+A. Simple
+B. Multivalue Answer
+C. Failover
+D. Latency,B. Multivalue Answer
+
+
+Which of the following Route 53 routing policies doesn't use health checks?
+A. Latency
+B. lMultivalue Answer
+C. Simple
+D. Geolocation,C. Simple
+
+
+Which of the following types of Route 53 health cheks works by making a test connection to a TCP port?
+A. Simple
+B. CloudWatch alarm
+C. Endpoint
+D. Calculated,C. Endpoint
+
+
+You have two EC2 instance hosting a web application. You want to distribute 20 percent of traffic to one instance and 80 percent to the other. Which of the following Route 53 routing policies should you use?
+A. Weighted
+B. Failover
+C. Multivalue Answer
+D. Simple,A. Weighted
+
+
+Resources in a VPC need to be able to resolve internal IP addresses for other resources in the VPC no one outside of the VPC should be able to resolve these addresses. Which of the folliwng Route 53 resources can help you achieve this?
+A. A public hosted zone
+B. A private hosted zone
+C. Domain name registration
+D. Health checks,B. A private hosted zone
+
+
+You want to provide private name resolution for two VPCs using the domain name company.pri. How many private hosted zones do you need to create?
+A. 1
+B. 2
+C. 3
+D. 4,A. 1
+
+
+On how many continents are CloudFront edge locations distributed?
+A. 7
+B. 6
+C. 5
+D. 4,B. 6
+
+
+From where does CloudFront retrieve content to store for caching?
+A. Regions
+B. Origins
+C. Distributions
+D. Edge Locations,B. Origins
+
+
+Which CloudFront distribution type requires you to privide a media player?
+A. Streaming
+B. RTMP
+C. Web
+D. Edge,B. RTMP
+
+
+You need to deliver content to users in the US and Canada. Which of the following edge location options will be themost cost effective for your CloudFront distribution?
+A. US, Canada, and EU
+B. US, CA, EU and Asia
+C. US, Canada, EU, Asia and Africa
+D. All edge locations,A. US, Canada, and EU
+
+
+Approximately how many different CloudFront edge locations are there?
+A. About 50
+B. 150+
+C. 300+
+D. 500+,B. 150+
+
+
+Which of the following are valid origins for a CloudFront distribution? (Select TWO)
+A. EC2 instance
+B. A public S3 bucket
+C. A private S3 bucket that you don't have access to
+D. A private S3 bucket that you own,A. EC2 instance
+B. A public S3 bucket
+
+
+Which of the following is an advantage of using CloudFormation?
+A. It uses the popular Python programming language
+B. It prevents unauthorized manual changes to resources
+C. It lets you create multiple separate AWS environments using a single template
+D. It can create resources outside of AWS,C. It lets you create multiple separate AWS environments using a single template
+
+
+What formats do cloudFormation templates support? (Select TWO)
+A. XML
+B. YAML
+C. HTML
+D. JSON,B. YAML
+D. JSON
+
+
+What's an advantage of using parameters in a CloudFormation template?
+A. Allow customizing a stack without changing the template
+B. Prevent unauthorized users from using a template
+C. Preent stack updates
+D. Allow multiple stacks to be cretaed from the same template,A. Allow customizing a stack without changing the template
+
+
+Why would you use CloudFormation to automatically create resources for a development environment instead of creating them using AWS CLI commands? (Select TWO)
+A. Resources ClouFormation creates are organize dinto stacks and can be managed as a single unit
+B. CloudFormation stack updates help ensure that changes to one resource won't break another
+C. Resources created by CloudFormaiton always work as expected
+D. CloudFormation can provision resources faster than the AWS CLI,A. Resources ClouFormation creates are organize dinto stacks and can be managed as a single unit
+B. CloudFormation stack updates help ensure that changes to one resource won't break another
+
+
+What are two features of CodeCommt? (Select TWO)
+A. Versioning
+B. Automatic deployment
+C. Differencing
+D. Manual deployment,A. Versioning
+C. Differencing
+
+
+In the context of CodeCommit, what can differencing accomplish?
+A. Allowing reverting to an older version of a file
+B. Understanding what code change introduced the bug
+C. Deleting duplicate lines of code
+D. Seeing when an application as last deployed,B. Understanding what code change introduced the bug
+
+
+What software development practive regularly tests new code for bugs but doesn't do anything else?
+A. Differencing
+B. Continuous deployment
+C. Continuous delivery
+D. Continuous integration,D. Continuous integration
+
+
+Which CodeBuild build environment compute types support Windows OS?
+A. build.general2.large
+B. build.general1.medium
+C. build.general1.small
+D. build.general1.large
+E. build.windows1.small,B. build.general1.medium
+D. build.general1.large
+
+
+What does a CodeBuild environment always contain? (Select TWO)
+A. An OS
+B. A Docker image
+C. The Python programming language
+D. .NET core
+E. The PHP programming language,A. An OS
+B. A Docker image
+
+
+Which of the following can CodeDeploy do? (Select THREE)
+A. Deploy an application to an op-prem Windows instance
+B. Deploy a Docker container to the Elastic Container Service
+C. Upgrade an application on an EC2 instance running Red Hat ENT
+D. Deploy an application to an Android smartphone
+E. Deploy a website to an S3 bucket,A. Deploy an application to an op-prem Windows instance
+B. Deploy a Docker container to the Elastic Container Service
+C. Upgrade an application on an EC2 instance running Red Hat ENT
+
+
+What is the minimum number of actions in a CodePipeline pipeline?
+A. 1
+B. 2
+C. 3
+D. 4
+E. 0,B. 2
+
+
+You wnat ot predefine the configuration of EC2 instances that you plan to launch manually and using Auto Scaling. What resource must you use?
+A. CloudFormation template
+B. Instance role
+C. Launch configuration
+D. Launch template,D. Launch template
+
+
+What Auto Scaling group parameters set the limit for the number of instances that Auto Scaling creates? (Select TWO)
+A. Maximum
+B. Group size
+C. Desired capacity
+D. Minimum,A. Maximum
+D. Minimum
+
+
+An Auto Scaling group has a desired capacity of 7 and a maximum size of 7. What will Auto Scaling do if someone manually terminates one of these instances?
+A. It will not launch any new intances
+B. It will launch one new instance
+C. It will terminate one instance
+It will change the desired capacity to 6,B. It will launch one new instance
+
+
+What Auto Scaling feature cretes a scaling schedule based on past usage patterns?
+A. Predictive scaling
+B. Scheduled scaling
+C. Dynamic scaling
+D. Pattern scaling,A. Predictive scaling
+
+
+What type of AWS Systems Manager document can run Bash or PowerShell scripts on an EC2 instance?
+A. Run document
+B. Command document
+C. Automation document
+D. Script document,B. Command document
+
+
+What type of AWS Systems Manager document can take a snapshot of an EC2 instance?
+A. Command document
+B. Run document
+C. Script document
+D. Automation doc,D. Automation doc
+
+
+Which of the following OpsWorks sevices uses Chef recipes?
+A. for Puppet Enterprise
+B. Stacks
+C. Layers
+D. for Automation,B. Stacks
+
+
+What configuraiton management platforms does OpsWorks support? (Select TWO)
+A. SaltStack
+B. Puppet Enterprise
+C. CFEngine
+D. Chef
+E. Ansible,B. Puppet Enterprise
+D. Chef
+
+
+Which of the following OpWorks Stacks layers contains at lest one EC2 instance?
+A. EC2 Auto Scaling layer
+B. Elastic Container Service (ECS) cluster layer
+C. OpsWorks layer
+D. Relational DB Service (RDS) layer
+E. Elastic Load Balancing (ELB) layer,C. OpsWorks layer
+
+
+Which of the following is not one of the pillars of the Well-Architected Framework?
+A. Performance efficiency
+B. Reliability
+C. Resiliency
+D. Security
+E. Cost optimization,C. Resiliency
+
+
+Which of the following are examples of apploying the principles of the security pillar of the Well-Architected Framework? (Select TWO)
+A. Granting each AWS user their own IAM username and password
+B. Creating a security group rule to deny access to unused ports
+C. Deleting an empty S3 bucket
+D. Enabling S3 versioning,A. Granting each AWS user their own IAM username and password
+D. Enabling S3 versioning
+
+
+Your hosting a web applicaiton on two EC2 instances in an Auto Scaling group. the performance of the applicatoin is consistently acceptable. Which of the following can help maintain or improve performance efficiency? (Select TWO)
+A. Monitoring for unauthorized access
+B. Doubling the number of instances in the Auto Scaling group
+C. Implementing policies to prevent the accidental termination of EC2 instances in the same Auto Scaling group
+D. Using CloudFront,C. Implementing policies to prevent the accidental termination of EC2 instances in the same Auto Scaling group
+D. Using CloudFront
+
+
+Which of the folloinw g can help achieve cost optimization? (Select TWO)
+A. Deleting unused S3 objects
+B. Deleting empty S3 buckets
+C. Deleting unused application load balancers
+D. Deleting unused VPCs,A. Deleting unused S3 objects
+C. Deleting unused application load balancers
+
+
+Which of the following is a key component of operational excellence?
+A. Adding more security personnel
+B. Automating mnual processes
+C. Making minor improvements to bad processes
+D. Making people work longer hours,B. Automating manual processes
+
+
+Your default VPC in the us-west-1 Region has three default subnets. How many AZ are in this region?
+A. 2
+B. 3
+C. 4
+D. 5,B. 3
+
+
+Your organizaiotn is building a database-backed web application that will sit behind an application load balancer. You add an inbound security group rule to allow HTTp traffic on TCp port 80. Where should you apply this security group to allow users to acces the application?
+A. the application load balancer listener
+B. The DB instance
+C. The subnets where the instances reside
+D. None of these,A. the application load balancer listener
+
+
+How does an application LB enable reliability?
+A. By routing traffic away from failed instances
+B. By replacing failed instances
+C. By routing traffic to the least busy instances
+D. By caching frequently accessed content,A. By routing traffic away from failed instances
+
+
+Which of the follwing contains the configuration info for instances in an Auto Scaling group?
+A. Launch diretive
+B. Dyfnamic scaling policy
+C. CloudFormation template
+D. Launch template,D. Launch template
+
+
+You've created a target tracking policy for an Auto Scaling group. You want to ensure that the number of instances in the grup never exceeds 5. How can you accomplish this?
+A. Set the group size to 5
+B. Max group size to 5
+C. Min group size to 5
+D. Delete the target tracking policy,B. Max group size to 5
+
+
+Which of the following is an example of a static website?
+A. A WordPress blog
+B. A website hosted on S3
+C. A popular social media website
+D. A web-based email applicaiton,B. A website hosted on S3
+
+
+Which of the following features of S3 improve the security of data you store in an S3 bucket? (Select TWO)
+A. Objects in S3 are not public by default
+B. All objects are readable by all AWS users by default
+C. By default, S3 removed ACLs that allow public read access to objects
+D. S3 removes public objects by default,A. Objects in S3 are not public by default
+C. By default, S3 removed ACLs that allow public read access to objects
+
+
+Which of the following is required to enable S3 static website hosting on a bucket?
+A. Enable bucket hosting in the S3 service console
+B. Disable default encryption
+C. Disable object versioning
+D. Enable object versioning,A. Enable bucket hosting in the S3 service console
+
+
+You've created a staic website hosted on S3 and given potential customers the URL that consists of words and numbers. They're complaining that it's too hard to type in. How can you come up with a friendlier URL?
+A. Re-create the bucket using only words in the name
+B. Use a custom domain name
+C. Re-create the bucket in a different Region
+D. Re-create the bucket using only numbers in the name,B. Use a custom domain name
+
+
+Which of the following is true regarding static websites hosted in S3?
+A. The content served is not encrypted in transit
+B. Anyone can modify the content
+C. You must use a custom domain name
+D. A website hosted on S3 is stored in multiple Regions,A. The content served is not encrypted in transit
+
+
+Which of the following can impact the reliability of a web application running on EC2 instances?
+A. taking EBS snapshots of the instances
+B. The user interface is too difficult to use
+C. Not replacing a misconfigured resource that the application depends on
+D. Provisioning too many instances,C. Not replacing a misconfigured resource that the application depends on
+
+
+You have a public web application running on EC2 instances. Which of the following factors affecting the performance of your application might be out of your control?
+A. Storage
+B. Compute
+C. Network
+D. Database,C. Network
+
+
+An Auto Scaling groufp can use an EC2 system health check to determine whether an instance is healthy. What other type of health check can it use?
+A. Se
+B. SNS
+C. VPC
+D. ELB,D. ELB
+
+
+Your're hosting a static website on S3. Your web assets are stored under the Standard storage class. Which of the following is true regarding your site?
+A. someone may midify the content of your site without authorization
+B. You're responsible for S3 charges
+C. You're charged for any compute power used to host the site
+D. An AZ outage may bring down the site,B. You're responsible for S3 charges
+
+
+You're hosting a static website on S3. Your web assets are stored in the US East 1 Region in the bucket named mygreatwebsite. what is the URL?
+A. http://mygreatwebsite.s3-website-us-east-1.amazonaws.com
+B. http://mygreatwebsite.s3.amazonaws.com
+C. http://mygreatwebsite.s3-website-us-east-amazonaws.com
+D. http://mygreatwebsite.s3-us-east-1.amazonaws.com,A. http://mygreatwebsite.s3-website-us-east-1.amazonaws.com
+
+
+Which of the following describes the cloud design principle of scalability?
+A. The ability to automatically increate available compute resources to meet growing user demand
+B. The ability to route incoming client requests between multiple application servers
+C. The ability to segment physical resources into mulitple virtual partitions
+D. The ability to reduce production costs by spreading capital expenses across many accounts,A. The ability to automatically increate available compute resources to meet growing user demand
+
+
+Which of the following best desribes the cloud service model known as infrastructure as a service (IaaS)?
+A. End user access to software applications delivered over theinternet
+B. Access to a simplified interface trought wich customers can directly deploy their appication code without having to worry about managing the underlying infrastructure
+C. Customer rental of the use of measured units of a provider's physical compute, storage and networking resources
+D. Abstracted interfaces built to manage clusters of containerized workloads,C. Customer rental of the use of measured units of a provider's physical compute, storage and networking resources
+
+
+How does ASW ensure that no single customer consumes an unsustainable porportion of available resources?
+A. AWS allows customers to consume as much as they're willing to pay for, regardless of general availability
+B. AWS imposess default limits on the use of it's service resources but allows customers to request higher limits
+C. AWS imposes har default limits on the use of its service resources
+D. AWS imposes default limits on the use of its service by Basic account holders; Premium account holders face no limits,B. AWS imposess default limits on the use of it's service resources but allows customers to request higher limits
+
+
+The AWS Free Tier is dsigned to give new account holders the opportunity to get to know how their serice work without necessarily costing any mony. How does it work?
+A. You get service credits that can be used to provision and launch a few typical workloads
+B. you get full freee access to a few core AWS serice for one month free
+C. You get log-cost access to many core AWS services for three months
+D. You get free lightweight access to many core AWS services for a full 12 months,D. You get free lightweight access to many core AWS services for a full 12 months
+
+
+AWS customers receive "production system down" support within one hour when they subscribe to which support plan(s)?
+A. Enterprise
+B. Business and enterprise
+C. Developer and Basic
+D. All plans get this level of support,B. Business and enterprise
+
+
+AWS customers get full access to the AWS Trusted Advisor best practice checks when they subscribe to which support plan(s)?
+A. All plans get this level of support
+B. Basic and Business
+C. Business and Enterprise
+D. Developer, usiness, and Enterprise,D. Developer, usiness, and Enterprise
+
+
+The AWS Shared Responsibility Model illustrates how AWS itself (as opposed to its customers) is resonsible for which aspects of the cloud environment?
+A. The redundancy and integrity of customer-added data
+B. The underlying intgrity and security of AWS physical resources
+C. Data and configuration added by customers
+D. The operating systems run on EC2 instnaces,B. The underlying intgrity and security of AWS physical resources
+
+
+Which of these is a designation for two or more AWS data centers within a single geographoic area?
+A. AZ
+B. Region
+C. Network subnet
+D. Geo-unit,A. AZ
+
+
+How, using secrity best practives, should your organizations team member access your AWS account resources?
+A. Only a single team member should be given any account access
+B. Through a jointly shared single account user who's been given full account-wide permissions
+C. Through the use of specially created users, groups, and roles, each given the fewest permissions neccessary
+D. Ideally, resource access should occur only through the use of access keys,C. Through the use of specially created users, groups, and roles, each given the fewest permissions neccessary
+
+
+Which of the following describes a methodology that protects your organization's data when it's on-site locally, in transit to AWS, and stored on AWS?
+A. Client-side encryption
+B. Server-side encryption
+C. Cryptographic transformaiton
+D. Encryption at rest,A. Client-side encryption
+
+
+What authentication method will you use to access your AWS resources remotely through the AWS CLI?
+A. Strong Pword
+B. Multifactor Authentication
+C. SSH Key pairs
+D. Access keys,D. Access keys
+
+
+Which of these is the primary benefit from using resource tags with your AWS assets?
+A. Tags enable the use of remote administration operations via the AWS CLI
+B. Tags make it easier to ID and administrate runing resources in a busy AWS account
+C. Tags enhance sdata security throughout your account
+D. Some AWS services won't work without the use of resource tags,B. Tags make it easier to ID and administrate runing resources in a busy AWS account
+
+
+What defines the base operating system and software stack that will be available for a new Elastic Compute Cloud (EC2) instance when it launches?
+A. The VPC into which you choose to launch your instance
+B. The instance type you select
+C. The Amazon Machine Image (AMI) you select
+D. You don't need to define the base OS, you can install that once the instance launches,C. The Amazon Machine Image (AMI) you select
+
+
+Which of the following AWS compute services offers an administration experience that most closely resembles the way you would run physical servers in your own local data center?
+A. Simple Storage Service (S3)
+B. Elastic Container Service (ECS)
+C. Elastic Compute Cloud (EC2)
+D. Lambda,C. Elastic Compute Cloud (EC2)
+
+
+Wich of the following AWS object storage services offers the lowest ongoing charges, but at the cost of some convenience?
+A. Glacier
+B. Storage Gateway
+C. Simple Storage Service (S3)
+D. Elastic Block Store (EBS),A. Glacier
+
+
+Which of the following AWS storage services can make the most practical sense for petabyte-sized archives that currently exist in your local data center?
+A. Saving to a Glacier Vault
+B. Saving to a S3 bucket
+C. Saving to an Elastic Block Store (EBS) volume
+D. Saving to an AWS Snowball device,D. Saving to an AWS Snowball device
+
+
+Which of the following will provide the most reliable and scalable relational database experience on AWS?
+A. Relational DB Service (RDS)
+B. Running a database on an EC2 instance
+C. DynamoDB
+D. Redshift,A. Relational DB Service (RDS)
+
+
+What's the best and simplest way to increatse reliability of an RDS database instance?
+A. Increase the available IOPS
+B. Choose the Aurora database engine when you configure your instance
+C. Enable Multi-AZ
+D. Duplicate the database in a second AWS Region,C. Enable Multi-AZ
+
+
+How does AWS describe an isolated networking environment into which you can launch compute resources while closely controlling network access?
+A. Security group
+B. VPC
+C. AZ
+D. Internet gateway,B. VPC
+
+
+What service does AWS use to provide a content delivery network )(CDN) for its customers?
+A. VPC peering
+B. Internet gateway
+C. Route 53
+D. CloudFront,D. CloudFront
+
+
+What is Amazon's Git-compliant version control service for integrating your source code with AWS resources?
+A. CodeCommit
+B. CodeBuild
+C. CodeDeploy
+D. Cloud9,A. CodeCommit
+
+
+Which AWS service allows you to build a script-like template representing complex resource stacks that can be used to launch precisely defined environments involving the full range of AWS resources?
+A. LightSail
+B. EC2
+C. CodeDeploy
+D. CloudFormation,D. CloudFormation
+
+
+What is Amazon Athena?
+A. A service that permits queries against data stored in S3
+B. A serice that permits processing and analyzing of real-time video and data streams
+C. A NoSQL database engine
+D. A Greece-based Amazon Direct Connect service partner,A. A service that permits queries against data stored in S3
+
+
+What is Amazon Kinesis?
+A. A service that permits queries against data stored in S3
+B. A serice that permits processing and analyzing of real-time video and data streams
+C. A NoSQL database engine
+D. A Greece-based Amazon Direct Connect service partner,B. A serice that permits processing and analyzing of real-time video and data streams
+
+
+What is Amazon Cognito?
+A. A service that can manage authentication and authorization for your public-facing applications
+B. A service that automates the administration of authentication secrets used by your AWS resources
+C. A service that permits processing and analyzing of real-time video and data streams
+D. A relational DB engine,A. A service that can manage authentication and authorization for your public-facing applications
+
+
+Which of the following EC2 service can be used without charge under the Free Tier?
+A. Any single EC2 instance type as long as it runs for less than one hour per day
+B. Any single EC2 instance type as long as it runs for less than 75 hours per month
+C. A single t2.micro EC2 instance type instance for 750 hourse per month
+D. t2.micro EC2 instance type instances for a total of 750 hours per month,D. t2.micro EC2 instance type instances for a total of 750 hours per month
+
+
+You want to experiment with deploying a web server on a EC2 instance. Which two of the following resources can you include to make that work while remaining within the Free Tier? (Select TWO)
+A. A 5 GB bucket on S3
+B. A t2.micro instance type EC2 instance
+C. A 30 GB solid-state Elastic Block Store (EBS) drive
+D. Two 20 GB solid-state EBS drives,B. A t2.micro instance type EC2 instance
+C. A 30 GB solid-state Elastic Block Store (EBS) drive
+
+
+Which of the following usage will always be cost-free even after your acount's Free Tier has expired? (Select TWO)
+A. One million API calls/month on Amazon API Gateway
+B. 10 GB of data retrievals from Amazon Glacier per month
+C. 500 MB/month of free storage on the Amazon elastic Container Registry (ECR)
+D. 10 custom monitoring metrics and 10 alarms on Amazon CloudWatch,B. 10 GB of data retrievals from Amazon Glacier per month
+D. 10 custom monitoring metrics and 10 alarms on Amazon CloudWatch
+
+
+Which of the following tools are available to ensure you won't accidentally run past your Free Tier limit and incur unwanted costs? (Select TWO)
+A. Automated email alerts when activity approaches the Free Tier limits
+B. The Top Free Tier Services by Usage section on the Billing & Cost Management Dashboard
+C. Billing & Cost Management seection on the Top Free Tier Service Dashboard
+D. The Billing Preferences Dashboard,A. Automated email alerts when activity approaches the Free Tier limits
+B. The Top Free Tier Services by Usage section on the Billing & Cost Management Dashboard
+
+
+Which of the following is likely to be an accurate source of AWS pricing information?
+A. Wikipedia pages relating to a particular service
+B. The AWS CLI
+C. AWS online docs relating to a particular service
+D. The AWS Total Cost of Ownership calculator,C. AWS online docs relating to a particular service
+
+
+Which of the following will probably not affect the pricing for an AWS service?
+A. Requests for raising the available service limit
+B. AWS region
+C. The volume of data saved to an S3 bucket
+D. The volume of data egress from an Amazon Glacier vault,A. Requests for raising the available service limit
+
+
+Which of the following is a limitation of the AWS Simple Monthly Calculator?
+A. You can calculate resource use for only one service at a time
+B. Not all AWS service are included
+C. The pricing is seldom updated and doesn't accurately reflect current pricing
+D. You're not able to specify specific configuration parameters,B. Not all AWS service are included
+
+
+Which of the following Simple Monthly Calculator selections will likely have an impact on most other configuraiton choices on the page? (Select TWO)
+A. Calcualte By Month Or Year
+B. Include Multiple Organizaitons
+C. Free Usage Tier
+D. Choose Region,C. Free Usage Tier
+D. Choose Region
+
+
+Which of the following is not an inclded parameter in the AWS Total cost of Ownership Calculater?
+A. The tax implicaitons of a cloud deployment
+B. labor costs of an op-premises deployment
+C. networking costs of an on-prem deployment
+D. Electricity costs of an on-prem,A. The tax implicaitons of a cloud deployment
+
+
+Which of the following AWS Total Cost of Ownership Calculator parameters is likely to have the gredatest impact on cost?
+A. Currency
+B. AWS Region
+C. Guest OS
+D. Number of servers,D. Number of servers
+
+
+Which of the ofllowing AWS docs URLs points to the page containing an up-to-date list of service limits
+A. https://docs.aws.amazon.com/general/latest/gr/limits.html
+B. https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+C. https://aws.amazon.com/general/latest/gr/aws_service_limits.html
+D. https://docs.aws.amazon.com/latest/gr/aws_service_limits.html,B. https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+
+
+Which of the follwing best describes one possible reason for AWS service limits?
+A. To prevent individual customers from accidentally launching a crippling level of resource consumption.
+B. To more equally distribute available resources between customers from different regions
+C. To allow customer s to more gradually increase their deployments
+D. Because there are logical limits to the ability of AWS resource to scale upward,A. To prevent individual customers from accidentally launching a crippling level of resource consumption.
+
+
+Is it always possible to request sevice limit increases from AWS?
+A. YEs. All service limites can be increased
+B. No. A limit can never be increased
+C Service limits are defaults. They can be increased or decreased on demand
+D. No. Some sevic limits are hard,D. No. Some sevic limits are hard
+
+
+Which is the best place to get a quick summary of this month's spend for your account?
+A. Budgets
+B. Cost Explorer
+Cost and usage reports
+D. Billing & Cost Management Dashboard,D. Billing & Cost Management Dashboard
+
+
+What is the main goal for creating a Usaage budget type (in AWS Budgets)?
+A. To correlate usage per unit cost to understand your account cost efficiency
+B. To track the status of any active reserved instances on your account
+C. To track particular categories of resource consumption
+D. To monitor costs being incurred against your account,C. To track particular categories of resource consumption
+
+
+Which of the following is not a setting you can configure in a Cost budget?
+A. Period (monthly, quarterly, etc.)
+B. Instance type
+C. Start and stop dates
+D. Owner (username of resource owner),D. Owner (username of resource owner)
+
+
+What is the main difference between the goals of Cost Explorer and of cost and usage reports?
+A. Cost Explorer displays visualizations of high-level historical and current account costs, whille cost and usage reports generate granular usage reports in CSV format.
+B. Cost and usage reports display visulalizaitons of high-level historical and current account costs, while Cost Explorer generates granular usage reports in CSV format
+C. Cost Explorer lets you set alerts that are triggered by billing events, while cost and usage reports help you visualize system events
+D. Cost and usage reports are meant to alert you to malicious intrusions, while Cost Explorer displays viualizations of high-level historical and current account costs,A. Cost Explorer displays visualizations of high-level historical and current account costs, whille cost and usage reports generate granular usage reports in CSV format.
+
+
+What is the purpose of cost allocation tags?
+A. To associate spend limits to automatically trigger resource shutdowns when necessary
+B. To help you identify the purpose and owner of a particular running resource to better understand and control deployments
+C. To help you identify resources for the urpose of trakcing your account spending
+D. To vsualy associate account events with billing periods,C. To help you identify resources for the urpose of trakcing your account spending
+
+
+Wich of the following scenarios would be a good use case for AWS Organizaitons? (Select TWO)
+A. A single company with multiple AWS accounts that wats a single place to administrate everything
+B. An organizaiton that provides AWS access to large teams of its developers and admins
+C. A company that's inegrated some operations with and upstream vendor
+D. A company with two distinct operational units, each with its own accounting system and AWS account,A. A single company with multiple AWS accounts that wats a single place to administrate everything
+C. A company that's inegrated some operations with and upstream vendor
+
+
+Which of these tools lets you design graphs within the browser interface to track your account spending?
+A. Budgets
+B. Cost Explorer
+C. Reports
+D. Consolidating Billing,B. Cost Explorer
+
+
+Your company is planning a major deployment on AWS. While the design and testing
+are still in progress, which of the following plans will provide the best blend of support
+cost savings?
+A. Basic
+B. Developer
+C. Business
+D. Enterprise,C. Business
+
+
+Your web development team is actively gearing up for a deployment of an ecommerce site.
+During these early stages of the process, individual developers are running into frustrating
+contlicts and configuration problems that are highly specific to your situation. Which of the
+tollowing plans will provide the best blend of support and cost savings?
+A. Basics
+B. Developer
+C. Business
+D. Enterprise,B. Developer
+
+
+You corporate website was offline last week for more than two hours-which caused
+ode serious consequences, including the early retirement of your CTO. Your engineers have
+been having a lot of trouble tracking down the source of the outage and admit that they
+need outside help. Which of the following will most likely meet that need?
+A. Basic
+B. Developer
+C. Business
+D. Enterprise,D. Enterprise
+
+
+For which of the following will AWS provide direct 24/7 support to all users-even those
+on the Basic Support plan?
+A. Help with infrastructure under a massive denial-of-service (DoS) attack
+B. Help with failed and unavailable infrastructure
+C. Help with making a bill payment to AWS
+D. Help with accessing your infrastructure via the AWS CLI,C. Help with making a bill payment to AWS
+
+
+The primary purpose of an AWS technical account manager is to:
+A. Provide 24/7 customer service for your AWS account
+B. Provide deployment guidance and advocacy for Enterprise Support customers
+C. Provide deployment guidance and advocacy for Business Support customers
+D. Provide strategic cost estimates for Enterprise Support customers,B. Provide deployment guidance and advocacy for Enterprise Support customers
+
+
+Your Linux-based EC2 instance requires a patch to a Linux kernel module. The problem
+is that patching the module will, for some reason, break the connection between your
+instance and data in an $3 bucket. Your team doesn't know if it's possible to work
+around this problem. Which is the most cost-effective AWS plan through which support
+professionals will try to help you?
+A. Developer.
+B. Business.
+C. Enterprise.
+D. No plan covers this kind of support.,B. Business
+
+
+Your company enrolled in the Developer Support plan and, through the course of onec
+month, consumed $4,000 USD of AWS services. How much will the support plan cost the
+company for the month?
+A. $120
+B. $29
+C. $100
+D. $480,A. $120
+
+
+Your company enrolled in the Business Support plan and, through the course of three
+months, consumed $33,000 of AWS services (the consumption was equally divided
+across the months). How much will the support plan cost the company for the full
+three months?
+A. $4,000
+B. $100
+C. $1,100
+D. $2,310,D. $2,310
+
+
+Which of the following AWS support services does not offer free documentation of
+some sort?
+A. AWS Professional Services
+B. The Basic Support plan
+C. AWS Partner Network
+D. The Knowledge Center,C. AWS Partner Network
+
+
+What is the key difference between the roles of AWS Professional Services and a Technical Account Manager (TAM)?
+A. The Professional Services product helps AWS Partner Network cloud professionals work alongside your own team to help you administrate your cloud infrastructure -
+TAM is a cloud professional employed by AWS to guide you through the planning and
+execution of your infrastructure.
+B. The TAM is a cloud professional employed by AWS to guide you through the plannin
+and execution of your infrastructure. The Protessional Services product provides clond
+professionals to work alongside your own team to help you administrate your cloud
+infrastructure.
+C. The TAM is a member of your team designated as the point person for all AWS
+projects. The Professional Services product provides consultants to work alongside
+your own team to help you administrate your cloud infrastructure.
+D. The Professional Services product is,A. The Professional Services product helps AWS Partner Network cloud professionals work alongside your own team to help you administrate your cloud infrastructure -
+TAM is a cloud professional employed by AWS to guide you through the planning and
+execution of your infrastructure.
+
+
+AWS documentation is available in a number of formats, including which of the following?
+(Select TWO.)
+A. Microsoft Word (DOC)
+B. Kindle
+C. HTML
+D. DocBook,B. Kindle
+C. HTML
+
+
+Which of the following documentation sites are most likely to contain code snippets for you
+to cut and (after making sure you understand exactly what they'll do) paste into your AWS
+operations? (Select TWO.)
+A. https://aws.amazon.com/premi umsupport/knowledge- center
+B. https://aws.amazon.com/premiumsupport/compare-plans
+C. https://docs.aws.amazon.com
+D. https://aws . amazon .com/professi onal-servi ces,A. https://aws.amazon.com/premiumsupport/knowledge- center
+C. https://docs.aws.amazon.com
+
+
+What is the primary function of the content linked from the Knowledge Center?
+A. To introduce new users to the functionality of the core AWS services
+B. To explain how AWS deployments can be more efficient and secure than on-premises
+C. To provide a public forum where AWS users can ask their technical questions
+D. To present solutions to commonly encountered technical problems using AWS
+infrastructure,D. To present solutions to commonly encountered technical problems using AWS
+infrastructure
+
+
+On which of the following sites are you most likely to find information about encrypting
+your AWS resources?
+A. https: //aws.amazon.com/premi umsupport/knowledge- center
+B. https : //aws . amazon.com/security/ security-resources
+C. https://docs. aws.amazon.com
+D. https://aws.amazon.com/security/encryption,B. https : //aws . amazon.com/security/ security-resources
+
+
+When using AWS documentation pages, what is the best way to be sure
+the information you're reading is up-to-date?
+A. The page URL will include the word latest.
+B. The page URL will include the version number (i.e., 3.2).
+C. The page will have the word Current at the top right.
+D. There is no easy way to tell.q,A. The page URL will include the word latest.
+
+
+Which of the following is not a Trusted Advisor category?
+A. Performance
+B. Service Limits
+C. Replication
+D. Fault Tolerance,C. Replication
+
+
+17. "Data volumes that aren't properly backed up" is an example of which of these Trusted
+Advisor categories?
+A. Fault Tolerance
+B. Performance
+C. Cost Optimization
+D. Security,A. Fault Tolerance
+
+
+18. Instances that are running (mostly) idle should be identified by which of these Trusted
+Advisor categories?
+A. Performance
+B. Cost Optimization
+C. Service Limits
+D. Replication,B. Cost Optimization
+
+
+Within the context of Trusted Advisor, what is a false positive?
+A. An alert for a service state that was actually intentional
+B. A green OK icon for a service state that is failed or failing
+C. A single status icon indicating that your account is completely compliant
+D. Textual indication of a failed state,A. An alert for a service state that was actually intentional
+
+
+Which of the following Trusted Advisor alerts is available only for accounts on the Business
+or Enterprise Support plan? (Select TWO.)
+A. MFA on Root Account
+B. Load Balancer Optimization
+C. Service Limits
+D. IAM Access Key Rotation,B. Load Balancer Optimization
+D. IAM Access Key Rotation
+
+
+Under the shared responsibility model, which of the following is the customer responsible for?
+A. Ensuring that disk drives are wiped after use.
+B. Ensuring that firmware is updated on hardware devices.
+C. Ensuring that data is encrypted at rest.
+D. Ensuring that network cables are category six or higher.,C. Ensuring that data is encrypted at rest.
+
+
+The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
+A. Cost allocation tags
+B. Consolidated billing
+C. AWS Budgets
+D. AWS Marketplace,C. AWS Budgets
+
+
+Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+A. Amazon Glacier
+B. AWS Storage Gateway
+C. Amazon S3
+D. Amazon EBS,C. Amazon S3
+
+
+What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice areas?
+A. AWS Enterprise Support
+B. AWS Solutions Architects
+C. AWS Professional Services
+D. AWS Account Managers,C. AWS Professional Services
+
+
+A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house.
+Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+A. AWS Partner Network Technology Partners
+B. AWS Marketplace
+C. AWS Partner Network Consulting Partners
+D. AWS Service Catalog,C. AWS Partner Network Consulting Partners
+
+
+Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?
+A. Implement automation.
+B. Design for agility.
+C. Design for failure.
+D. Implement elasticity.,A. Implement automation.
+
+
+Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
+A. Amazon EC2
+B. Amazon Relational Database Service (Amazon RDS)
+C. Amazon Aurora
+D. Amazon Redshift
+E. Amazon S3,A. Amazon EC2
+B. Amazon Relational Database Service (Amazon RDS)
+
+
+Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance?
+A. AWS Cost Explorer
+B. AWS Trusted Advisor
+C. Consolidated billing
+D. Detailed billing,A. AWS Cost Explorer
+
+
+Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?
+A. Spot Instances
+B. Reserved Instances
+C. Dedicated Hosts
+D. On-Demand Instances,C. Dedicated Hosts
+
+
+Which AWS characteristics make AWS cost effective for a workload with dynamic user demand? (Select TWO.)
+A. High availability
+B. Shared security model
+C. Elasticity
+D. Pay-as-you-go pricing
+E. Reliability,C. Elasticity
+D. Pay-as-you-go pricing
+
+
+Which service enables risk auditing by continuously monitoring and logging account activity, including user actions in the AWS Management Console and AWS SDKs?
+A. Amazon CloudWatch
+B. AWS CloudTrail
+C. AWS Config
+D. AWS Health,B. AWS CloudTrail
+
+
+Which of the following are characteristics of Amazon S3? (Select TWO.)
+A. A global file system
+B. An object store
+C. A local file store
+D. A network file system
+E. A durable storage system,A. A global file system
+B. An object store
+
+
+Which services can be used across hybrid AWS Cloud architectures?
+(Select TWO.)
+A. Amazon Route 53
+B. Virtual Private Gateway
+C. Classic Load Balancer
+D. Auto Scaling
+E. Amazon CloudWatch default metrics,A. Amazon Route 53
+B. Virtual Private Gateway
+
+
+What costs are included when comparing AWS Total Cost of Ownership (TCO) with onpremises
+TCO?
+A. Project management
+B. Antivirus software licensing
+C. Data center security
+D. Software development,A. Project management
+
+
+A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and costsaving
+purposes.
+Which service should the company use?
+A. Amazon Redshift
+B. Amazon DynamoDB
+C. Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store
+D. Amazon EC2 with Amazon Elastic Block Store (Amazon EBS),A. Amazon Redshift
+
+
+Which of the following is a correct relationship between regions, Availability Zones, and
+edge locations?
+A. Data centers contain regions.
+B. Regions contain Availability Zones.
+C. Availability Zones contain edge locations.
+D. Edge locations contain regions.,B. Regions contain Availability Zones
+
+
+Which AWS tools assist with estimating costs?
+(Select TWO.)
+A. Detailed billing report
+B. Cost allocation tags
+C. AWS Simple Monthly Calculator
+D. AWS Total Cost of Ownership (TCO) Calculator
+E. Cost Eliminator,B. Cost allocation tags
+D. AWS Total Cost of Ownership (TCO) Calculator
+
+
+Which of the following are advantages of AWS consolidated billing?
+(Select TWO.)
+A. The ability to receive one bill for multiple accounts
+B. Service limits increasing by default in all accounts
+C. A fixed discount on the monthly bill
+D. Potential volume discounts, as usage in all accounts is combined
+E. The automatic extension of the master account's AWS support plan to all accounts,A. The ability to receive one bill for multiple accounts
+D. Potential volume discounts, as usage in all accounts is combined
+
+
+Which of the following Reserved Instance (RI) pricing models provides the highest average savings compared to On-
+Demand pricing?
+A. One-year, No Upfront, Standard RI pricing
+B. One-year, All Upfront, Convertible RI pricing
+C. Three-year, All Upfront, Standard RI pricing
+D. Three-year, No Upfront, Convertible RI pricing,C. Three-year, All Upfront, Standard RI pricing
+
+
+Compared with costs in traditional and virtualized data
+centers, AWS has:
+A. greater variable costs and greater upfront costs.
+B. fixed usage costs and lower upfront costs.
+C. lower variable costs and greater upfront costs.
+D. lower variable costs and lower upfront costs,D. lower variable costs and lower upfront costs.
+
+
+A characteristic of edge
+locations is that they:
+A. host Amazon EC2 instances closer to users.
+B. help lower latency and improve performance for users.
+C. cache frequently changing data without reaching the origin server.
+D. refresh data changes daily,C. cache frequently changing data without reaching the origin server.
+
+
+Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to
+specific users?
+A. A public and private key-pair
+B. Amazon Inspector
+C. AWS Identity and Access Management (IAM) policies
+D. Security Groups,C. AWS Identity and Access Management (IAM) policies
+
+
+Which of the following security-related actions are
+available at no cost?
+A. Calling AWS Support
+B. Contacting AWS Professional Services to request a workshop
+C. Accessing forums, blogs, and whitepapers
+D. Attending AWS classes at a local university,C. Accessing forums, blogs, and whitepapers
+
+
+Which of the Reserved Instance (RI) pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?
+A. Dedicated RIs
+B. Scheduled RIs
+C. Convertible RIs
+D. Standard RIs,C. Convertible RIs
+
+
+Which AWS feature will reduce the customer's total cost of
+ownership (TCO)?
+A. Shared responsibility security model
+B. Single tenancy
+C. Elastic computing
+D. Encryption,A. Shared responsibility security model
+
+
+Which of the following services will automatically scale with an expected increase
+in web traffic?
+A. AWS CodePipeline
+B. Elastic Load Balancing
+C. Amazon EBS
+D. AWS Direct Connect,B. Elastic Load Balancing
+
+
+Where are AWS compliance documents, such as an SOC 1 report, located?
+A. Amazon Inspector
+B. AWS CloudTrail
+C. AWS Artifact
+D. AWS Certificate Manager,C. AWS Artifact
+
+
+Under the AWS shared responsibility model, which of the following activities are the customer's responsibility?
+(Select TWO.)
+A. Patching operating system components for Amazon Relational Database Server (Amazon RDS)
+B. Encrypting data on the client-side
+C. Training the data center staff
+D. Configuring Network Access Control Lists (ACL)
+E. Maintaining environmental controls within a data center,B. Encrypting data on the client-side
+D. Configuring Network Access Control Lists (ACL)
+
+
+Which is a recommended pattern for designing a highly available
+architecture on AWS?
+A. Ensure that components have low-latency network connectivity.
+B. Run enough Amazon EC2 instances to operate at peak load.
+C. Ensure that the application is designed to accommodate failure of any single component.
+D. Use a monolithic application that handles all operations,C. Ensure that the application is designed to accommodate failure of any single component.
+
+
+According to best practices, how should an application be designed to run in
+the AWS Cloud?
+A. Use tighly coupled components.
+B. Use loosely coupled components.
+C. Use infrequently coupled components.
+D. Use frequently coupled components,B. Use loosely coupled components
+
+
+AWS supports which of the following methods to add security to Identity and Access Management (IAM) users?
+(Select TWO.)
+A. Implementing Amazon Rekognition
+B. Using AWS Shield-protected resources
+C. Blocking access with Security Groups
+D. Using Multi-Factor Authentication (MFA)
+E. Enforcing password strength and expiration,D. Using Multi-Factor Authentication (MFA)
+E. Enforcing password strength and expiration
+
+
+Which AWS services should be used for read/write of constantly changing data?
+(Select TWO.)
+A. Amazon Glacier
+B. Amazon RDS
+C. AWS Snowball
+D. Amazon Redshift
+E. Amazon EFS,A. Amazon Glacier
+B. Amazon RDS
+
+
+What is one of the advantages of the Amazon Relational Database Service
+(Amazon RDS)?
+A. It simplifies relational database administration tasks.
+B. It provides 99.99999999999% reliability and durability.
+C. It automatically scales databases for loads.
+D. It enabled users to dynamically adjust CPU and RAM resources,A. It simplifies relational database administration tasks.
+
+
+A customer needs to run a MySQL database
+that easily scales.
+Which AWS service should they use?
+A. Amazon Aurora
+B. Amazon Redshift
+C. Amazon DynamoDB
+D. Amazon ElastiCache,A. Amazon Aurora
+
+
+Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
+A. Availability Zone
+B. Edge location
+C. Region
+D. Private networking,A. Availability Zone
+
+
+Which of the following is a shared control between the customer and AWS?
+A. Providing a key for Amazon S3 client-side encryption
+B. Configuration of an Amazon EC2 instance
+C. Environmental controls of physical AWS data centers
+D. Awareness and training,D. Awareness and training
+
+
+How many Availability Zones should compute resources be provisioned across to achieve high availability?
+A. A minimum of one
+B. A minimum of two
+C. A minimum of three
+D. A minimum of four or more,A. A minimum of one
+
+
+One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:
+A. it allows the business to eliminate IT bills.
+B. it allows the business to put a server in each customer's data center.
+C. it allows the business to focus on business activities.
+D. it allows the business to leave servers unpatched.,C. it allows the business to focus on business activities
+
+
+What is the lowest-cost, durable storage option for retaining database backups for
+immediate retrieval?
+A. Amazon S3
+B. Amazon Glacier
+C. Amazon EBS
+D. Amazon EC2 Instance Store,B. Amazon Glacier
+
+
+Which AWS IAM feature allows developers to access AWS services through the AWS CLI?
+A. API keys
+B. Access keys
+C. User names/Passwords
+D. SSH keys,D. SSH keys
